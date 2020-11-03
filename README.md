@@ -1,6 +1,5 @@
-### Hi there 👋
+### Hi there👋 I'm Sua Kim 
 
-Hello! I'm Sua Kim.
 I want to be a developer who grows little by little every day.
 
 ### 🌱 My Interest
