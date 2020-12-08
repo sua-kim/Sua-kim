@@ -1,4 +1,4 @@
-### Hi there👋 I'm Sua Kim 
+### Hi there👋
 
 ### 🌱 My Interest
 - Algorithm (python)
