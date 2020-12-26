@@ -1,11 +1,5 @@
 ### Hi there👋
 
-### 🌱 My Interest
-- Algorithm (python)
-- Back-end technologies such as Javascript, Nodejs
-- Application development with Android Studio
-- Machine Learning (python)
-
 ![Sua Kim's Github Stats](https://github-readme-stats.vercel.app/api?username=sua-kim&show_icons=true)
 
 <!--
